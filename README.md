@@ -1,1 +1,2 @@
 # learnC
+bachj dinh tuyen
